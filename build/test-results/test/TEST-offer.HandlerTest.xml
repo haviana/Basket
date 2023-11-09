@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="offer.HandlerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-01T21:43:31" hostname="Hugos-MBP.lan" time="0.501">
+  <properties/>
+  <testcase name="process_WhenHasApples_ThenAddNewOffer()" classname="offer.HandlerTest" time="0.501"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
